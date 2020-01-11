@@ -31,7 +31,7 @@ const Home = ({ history }) => {
         setAnimateAbout(false);
       }, 400);
   }, [animateWork, animateAbout, history]);
-  const background = require("../assets/images/cover.png");
+  const background = require("../assets/images/oscar.png");
   return (
     <Wrapper>
       <WorkLink onClick={() => setAnimateWork(true)} animating={animateWork}>
@@ -41,14 +41,14 @@ const Home = ({ history }) => {
         <AboutText>About</AboutText>
       </AboutLink>
       <Article>
-        <Title>Dev Ops</Title>
+        <Title>Crack</Title>
         <Caption>
-          Mi nombre es <Emphasis>Delfin Roc</Emphasis>, Ingeniero de Telecomunicaciones, aprendiendo desarrollo web y tecnicas de cloud computing.
+          Mi nombre es <Emphasis>Oscar Brunet</Emphasis>,un Crack.
         </Caption>
       </Article>
       <Article>
         <CoverSheet />
-        <CoverImg src={background} alt="Delfin Cover Photo" />
+        <CoverImg src={background} alt="Oscar Cover Photo" />
       </Article>
     </Wrapper>
   );
