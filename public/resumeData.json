@@ -2,7 +2,7 @@
   "main": {
     "name":"Oscar Brunet",
     "description":"I am a development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "image":"fotoweb2.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "oscarbrunetfbr@gmail.com",
@@ -49,31 +49,44 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University",
-        "degree":"ADE",
-        "graduated":"June 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad de Zaragoza",
+        "degree":"Grado en ADE",
+        "graduated":"Junio 2013",
+        "description":"En el grado de ADE me forme profesionalmente para realizar labores de gestión, asesoramiento y evaluación en las organizaciones productivas. Estas labores se pueden desempeñar en el ámbito global de la organización o en cualquiera de las áreas funcionales: producción, recursos humanos, finanzas, comercialización, inversión, administración o contabilidad. Ademas de saber identificar y anticipar oportunidades, asignar recursos, organizar la información, seleccionar y motivar a las personas, tomar decisiones, alcanzar los objetivos propuestos y evaluar los resultados."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
+        "school":"Kühnel Escuela de negocios",
+        "degree":"MBA Máster en Business Administration -Zaragoza-",
+        "graduated":"Noviembre 2018",
+        "description":["Con el MBA logre incrementar mis capacidades directivas, a través del desarrollo de conocimientos y entrenamiento de habilidades.Desarrollar mi capacidad de pensamiento estratégico y análisis para la toma de decisiones y resolución de conflictos, en el entorno actual competitivo y global. Aprender las técnicas más avanzadas de gestión empresarial. Potenciar mis competencias en habilidades transversales mejorando el trabajar en equipo, el desarrollo del espíritu emprendedor y el liderazgo en procesos de innovación."
+         ] }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "company":"Conrad 2014 S.L",
+        "title":"Responsable de compras ",
+        "years":"Septiembre 2019 - Actualidad",
+
+        "description":[
+        
+        "-Planificar, gestionar y realizar las compras de equipos y suministros para la fabricación de los pedidos,",
+        "-Búsqueda y evaluación de nuevos proveedores.",
+        "",
+        "-Negociación con proveedores de plazos, descuentos, rappeles, etc. Petición de ofertas y realización de comparativas para encontrar la mejor alternativa, Realización y seguimiento de pedidos, Actualización del estado de los pedidos para lograr una coordinación con el responsable de Logística y Envíos."
+        ]},
       {
-        "company":"Super Cool Studio",
+        "company":"Obras, Contratas y Reformas RODENI S.L",
+        "title":"Septiembre 2018 - Septiembre 2019",
+        "years":"Septiembre 2018 - Septiembre 2019",
+        "description":["Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        ]}, 
+      {
+        "company":"ARGOS Consulting Network, S.L",
         "title":"Junior bug fixer",
         "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+        "description":["Describe work, special projects notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        ]}  
+      
     ],
     "skills":[
       {

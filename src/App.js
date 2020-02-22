@@ -8,7 +8,6 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
-
 class App extends Component {
 
   constructor(props){
@@ -36,6 +35,8 @@ class App extends Component {
         alert(err);
       }
     });
+     
+
   }
 
   componentDidMount(){
@@ -43,7 +44,10 @@ class App extends Component {
   }
 
   render() {
+    console.log(this.state.resumeData.resume);
     return (
+
+      
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
