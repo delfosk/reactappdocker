@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Oscar Brunet",
-    "description":"I am a development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"",
     "image":"fotoweb2.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"",
+    "contactmessage":"",
     "email": "oscarbrunetfbr@gmail.com",
     "phone": "649971263",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"",
+    "project":"",
     "address":{
       "street":"(C/Maella N19)",
       "city":"(Fabara)",
@@ -16,11 +16,11 @@
       "zip": "(50793)"
     },
     "website": "https://oscar.bugcatcher.team/",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/oscar.brunetmediavilla",
         "className":"fa fa-facebook"
       },
       {
@@ -34,13 +34,13 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instag ram",
-        "url":"http://instagram.com/tbaker_x",
+        "name":"instagram",
+        "url":"https://www.instagram.com/oscarbume/?hl=es",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"",
         "className":"fa fa-github"
       }
     ]
