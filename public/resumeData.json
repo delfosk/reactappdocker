@@ -78,13 +78,16 @@
         "company":"Obras, Contratas y Reformas RODENI S.L",
         "title":"Administrativo",
         "years":"Septiembre 2017 - Septiembre 2018",
-        "description":["Funciones administrativas y contables de la empresa, Optimización de los procesos con función de generar mayor productividad."
+        "description":[
+          "-Funciones administrativas y contables de la empresa",
+          "-Optimización de los procesos con función de generar mayor productividad."
         ]}, 
       {
         "company":"ARGOS Consulting Network, S.L",
         "title":"Comercial",
         "years":"Abril 2017 - Junio 2017",
-        "description":[" Captación de clientes, atención y satisfacción a clientes, así como contactó y gestión de proveedores." ]}  
+        "description":["-Captación de clientes.",
+          "-Atención y satisfacción a clientes, así como contactó y gestión de proveedores." ]}  
       
     ],
     "skills":[
