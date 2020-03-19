@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Universidad de Zaragoza",
@@ -65,7 +65,7 @@
       {
         "company":"Conrad 2014 S.L",
         "title":"Responsable de compras ",
-        "years":"Septiembre 2019 - Actualidad",
+        "years":"Septiembre 2018 - Actualidad",
 
         "description":[
         
@@ -76,16 +76,15 @@
         ]},
       {
         "company":"Obras, Contratas y Reformas RODENI S.L",
-        "title":"Septiembre 2018 - Septiembre 2019",
-        "years":"Septiembre 2018 - Septiembre 2019",
-        "description":["Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Administrativo",
+        "years":"Septiembre 2017 - Septiembre 2018",
+        "description":["Funciones administrativas y contables de la empresa, Optimización de los procesos con función de generar mayor productividad."
         ]}, 
       {
         "company":"ARGOS Consulting Network, S.L",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":["Describe work, special projects notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-        ]}  
+        "title":"Comercial",
+        "years":"Abril 2017 - Junio 2017",
+        "description":[" Captación de clientes, atención y satisfacción a clientes, así como contactó y gestión de proveedores." ]}  
       
     ],
     "skills":[
