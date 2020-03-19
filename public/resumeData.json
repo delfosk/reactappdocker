@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Oscar Brunet",
+    "description":"",
+    "image":"fotoweb2.jpg",
+    "bio":"",
+    "contactmessage":"",
+    "email": "oscarbrunetfbr@gmail.com",
+    "phone": "649971263",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"(C/Maella N19)",
+      "city":"(Fabara)",
+      "state":"(Spain)",
+      "zip": "(50793)"
+    },
+    "website": "https://oscar.bugcatcher.team/",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/oscar.brunetmediavilla",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/oscarbrunet",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/oscarbume/?hl=es",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universidad de Zaragoza",
+        "degree":"Grado en ADE",
+        "graduated":"Junio 2013",
+        "description":"En el grado de ADE me forme profesionalmente para realizar labores de gestión, asesoramiento y evaluación en las organizaciones productivas. Estas labores se pueden desempeñar en el ámbito global de la organización o en cualquiera de las áreas funcionales: producción, recursos humanos, finanzas, comercialización, inversión, administración o contabilidad. Ademas de saber identificar y anticipar oportunidades, asignar recursos, organizar la información, seleccionar y motivar a las personas, tomar decisiones, alcanzar los objetivos propuestos y evaluar los resultados."
+      },
+      {
+        "school":"Kühnel Escuela de negocios",
+        "degree":"MBA Máster en Business Administration -Zaragoza-",
+        "graduated":"Noviembre 2018",
+        "description":["Con el MBA logre incrementar mis capacidades directivas, a través del desarrollo de conocimientos y entrenamiento de habilidades.Desarrollar mi capacidad de pensamiento estratégico y análisis para la toma de decisiones y resolución de conflictos, en el entorno actual competitivo y global. Aprender las técnicas más avanzadas de gestión empresarial. Potenciar mis competencias en habilidades transversales mejorando el trabajar en equipo, el desarrollo del espíritu emprendedor y el liderazgo en procesos de innovación."
+         ] }
+    ],
+    "work":[
+      {
+        "company":"Conrad 2014 S.L",
+        "title":"Responsable de compras ",
+        "years":"Septiembre 2018 - Actualidad",
+
+        "description":[
+        
+        "-Planificar, gestionar y realizar las compras de equipos y suministros para la fabricación de los pedidos,",
+        "-Búsqueda y evaluación de nuevos proveedores.",
+        "",
+        "-Negociación con proveedores de plazos, descuentos, rappeles, etc. Petición de ofertas y realización de comparativas para encontrar la mejor alternativa, Realización y seguimiento de pedidos, Actualización del estado de los pedidos para lograr una coordinación con el responsable de Logística y Envíos."
+        ]},
+      {
+        "company":"Obras, Contratas y Reformas RODENI S.L",
+        "title":"Administrativo",
+        "years":"Septiembre 2017 - Septiembre 2018",
+        "description":[
+          "-Funciones administrativas y contables de la empresa",
+          "-Optimización de los procesos con función de generar mayor productividad."
+        ]}, 
+      {
+        "company":"ARGOS Consulting Network, S.L",
+        "title":"Comercial",
+        "years":"Abril 2017 - Junio 2017",
+        "description":["-Captación de clientes.",
+          "-Atención y satisfacción a clientes, así como contactó y gestión de proveedores." ]}  
+      
+    ],
+    "skills":[
+      {
+        "name":"Castellano",
+        "level":"100%"
+      },
+      {
+        "name":"Catalan",
+        "level":"80%"
+      },
+      {
+        "name":"Ingles",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  }
+}
